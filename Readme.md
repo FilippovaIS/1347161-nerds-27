@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Irina](https://up.htmlacademy.ru/htmlcss/27/user/1347161).
-* Наставник: `Неизвестно`.
+* Наставник: [Кирьян Горячев](https://htmlacademy.ru/profile/id578191).
 
 ---
 
